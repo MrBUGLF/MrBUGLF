@@ -22,15 +22,8 @@
 
 #  🙋 Hello
 
-<table>
-  
-<tr><td>
-
 ### 🤺 About Me
 
 <p>一个菜鸟信息安全工程师的主页</p>
 <p><strong>Think Different.</strong></p>
 
-</td></tr>
-
-</table>
