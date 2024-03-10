@@ -22,6 +22,6 @@
 
 #  🙋 Hello
 <div align="center">
-<p style="font-size: 28px;">一个菜鸟信息安全工程师的主页</p>
-<p style="font-size: 28px;"><strong>Think Different.</strong></p>
+<p>一个菜鸟信息安全工程师的主页</p>
+<p><strong>Think Different.</strong></p>
 </div>
