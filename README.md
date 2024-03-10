@@ -12,4 +12,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF.github.io/img/blog-logo.jpg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF.github.io/img/blog-logo.jpg" />
   </picture>
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
