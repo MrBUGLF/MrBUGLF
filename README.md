@@ -22,6 +22,11 @@
 
 #  🙋 Hello
 <div align="center">
-<p font-size="16">一个菜鸟信息安全工程师的主页</p>
-<p><strong>Think Different.</strong></p>
+  <style>
+    .font{
+      font-size: 20px;
+      }
+  </style>
+<p class="font">一个菜鸟信息安全工程师的主页</p>
+<p class="font"><strong>Think Different.</strong></p>
 </div>
