@@ -24,7 +24,6 @@
 <div align="center">
 <p>一个菜鸟信息安全工程师的主页</p>
 <p><strong>Think Different.</strong></p>
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/MRBUGLF/MRBUGLF/images/java.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/MRBUGLF/MRBUGLF/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/MRBUGLF/MRBUGLF/images/github.webp">
 </div>
