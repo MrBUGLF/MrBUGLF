@@ -26,7 +26,7 @@
 <p><strong>Think Different.</strong></p>
 <p>
   
-  ![MrBUGLF's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBUGLF)
+  ![MrBUGLF's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBUGLF&show_icons=true)
   
 </p>
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/MRBUGLF/MRBUGLF/images/python.webp">
