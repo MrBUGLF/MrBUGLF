@@ -7,7 +7,7 @@
     </a>
   </div>
  <p>⛄ 一只菜鸟信息安全工程师</p>
- <p><strong>💡 Think Different.</strong></p>
+ <p><strong>💡 Think Different</strong></p>
  
   ![MrBUGLF's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBUGLF&show_icons=true)
   
