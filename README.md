@@ -12,10 +12,10 @@
   ![MrBUGLF's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBUGLF&show_icons=true)
   
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
+  <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF/profile-snake-contrib/grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF/profile-snake-contrib/grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF/profile-snake-contrib/grid-snake-dark.svg" />
-  </picture>
+  </picture>  -->
 </div>
 
