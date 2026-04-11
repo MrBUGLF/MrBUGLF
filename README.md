@@ -15,6 +15,6 @@
   ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
   
   
-  </picture>  -->
+  </picture> 
 </div>
 
