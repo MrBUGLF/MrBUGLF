@@ -9,13 +9,12 @@
  <p>⛄ 一只菜鸟信息安全工程师</p>
  <p><strong>💡 Think Different</strong></p>
  
-  ![MrBUGLF's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrBUGLF&show_icons=true)
+ <!-- 主页Readme Stats -->
+  ![Stats](./profile/stats.svg)
+  ![Top Languages](./profile/top-langs.svg)
+  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
   
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <!-- <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF/profile-snake-contrib/grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF/profile-snake-contrib/grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/MrBUGLF/MrBUGLF/profile-snake-contrib/grid-snake-dark.svg" />
+  
   </picture>  -->
 </div>
 
