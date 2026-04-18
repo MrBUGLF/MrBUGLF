@@ -10,9 +10,8 @@
  ## ⛄ 一只菜鸟信息安全工程师
  
 <div align="center">
-<img align="center" height="140px" style="float: left" src="https://github-readme-stats-mrbuglf.vercel.app/api?username=mrbuglf&show_icons=true&hide=contribs,prs" alt="Anurag's github stats" /> 
-<img align="center" height="140px" style="float: left" src="https://github-readme-stats-mrbuglf.vercel.app/api/top-langs/?username=mrbuglf&layout=compact" />
-<div style="clear: both"></div>
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-MrBUGLF.vercel.app/api?username=MrBUGLF&show_icons=true&hide=contribs,prs" alt="MrBUGLF's github stats" /> 
+<img align="center" height="140px" style="float: left" src="https://github-readme-stats-MrBUGLF.vercel.app/api/top-langs/?username=MrBUGLF" />
 </div>
   
 
