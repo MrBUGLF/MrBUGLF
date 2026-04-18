@@ -10,14 +10,9 @@
  <p><strong>💡 Think Different</strong></p>
  
 <!-- 主页Readme Stats -->
-  <div align="left">
+  <div align="center">
     <img src="./profile/stats.svg" alt="Stats" />
-  </div>
-  <div align="left">
     <img src="./profile/top-langs.svg" alt="Top Languages" />
-  </div>
-  <div align="left">
-    <img src="./profile/pin-readme-tools-github-readme-stats.svg" alt="Pinned" />
   </div>
   
 </div>
